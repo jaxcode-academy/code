@@ -1,6 +1,52 @@
--Camila and logan recording
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
 
--Github setup
+-Github setup, SSH keys
 -Connect via terminal
--Create repository
--Make a push!
+-Git init
+-git config --global user.name "Jax Code Academy"
+-git config --global user.email "admissions@jaxcode.com"
+-git status
+-git add -A
+-Create a remote repository
+-Connect using starter commands
+-git commit -m "message"
+-git push
+-Use source control sidebar
+
+-Never ask you to keep folders for more than two weeks
+
+-Know how to code, how to form a tag, understand the concepts. You can always look up the syntax, and eventually you won't need to.
+
+
+1. First Push from a practice folder
+2. Then, push from this folder:
+
+-Creating a new project folder, with an index.html & stylesheet
+-Create index.html:
+    -DOCTYPE, html, head, body
+    -Header, main, footer
+-Create style.css:
+    -box-sizing: border-box.
+
+Exercise: Create a new project folder
+Inside index.html, add the following HTML elements
+    -HTML Elements: Paragraph, headings h1-h6, unordered list, ordered list, link, button, img
+
+
+-Attributes (such as id, class, src, width, alt)
+-Properties: Color, background-color, width, height
+-Units: px (pixel), vw (viewport width), vh (viewport height), rem (16px)
+-Creating a CSS Rule
+-CSS Specifity
+-Display, inline, inline-block, block
+-Box model (padding, border, margin), box-sizing, variables (custom properties)
+-CSS Reset
+-CSS Flexbox
+
+-Add reset (body, p, a)
+-Show display inline & block with borders
+-Test padding, margins, width, height on top/bottom of a el
+-Change a to inline-block
+-See those respected
+
+-Use display to change 
