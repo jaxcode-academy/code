@@ -3,4 +3,4 @@
 -Github setup
 -Connect via terminal
 -Create repository
--Make a push
+-Make a push!
